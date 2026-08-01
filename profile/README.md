@@ -61,7 +61,7 @@ Vehicle customization deepens the learning curve. Tanks need awareness of infant
 
 ## Visual Reference
 
-![Battlefield 4 squad advancing through a destructible modern combat map](https://gaming-cdn.com/images/products/185/orig/battlefield-4-pc-spil-ea-app-cover.jpg?v=1707146102)
+![Battlefield 4 squad advancing through a destructible modern combat map](https://m.media-amazon.com/images/I/81lUVirzdFL._AC_UF894,1000_QL80_.jpg)
 
 ## Fixes for Common Battlefield Issues
 
